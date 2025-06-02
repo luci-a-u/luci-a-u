@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Aman Singh (aka luci-a-u)
+# 👋 Hey there, I'm Aman Singh (aka luci_a_u)
 
 ## 🛡️ Cybersecurity Enthusiast | Bug Bounty Hunter | Pentester
 
