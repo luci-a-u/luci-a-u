@@ -24,7 +24,7 @@ My personal portfolio site showcasing my skills, work, and social links — buil
 
 ##  GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=luci-a-u&show_icons=true&theme=tokyonight&hide_border=true)
+![Aman's GitHub stats]([https://github-readme-stats.vercel.app/api?username=luci-a-u&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=luci-a-u))
 
 ---
 
